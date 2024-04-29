@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+}
+
+.cityWrapper {
+    margin-bottom: 5px;
+    color: white;
+    
+   
+}
+
+.CP {
+    font-weight: bold;
+}
+
+.cityName {
+    margin-left: 5px;
+}
+
+.cityLiving {
+    margin-left: 5px;
+}
+
+.divContainer{
+    margin-left: 30%;
+    max-height: 600px;
+    width: 600px;
+    overflow-y: auto;
+}
